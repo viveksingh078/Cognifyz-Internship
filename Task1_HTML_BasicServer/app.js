@@ -9,7 +9,7 @@ app.use(express.static("public")); // Serve static files (CSS/JS)
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Set EJS as the templating engine
-app.set("view engine", "ejs");
+app.set("view engine", "ejs"); 
 
 // Routes
 app.get("/", (req, res) => {
