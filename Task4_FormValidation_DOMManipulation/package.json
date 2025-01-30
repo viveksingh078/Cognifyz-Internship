@@ -1,0 +1,17 @@
+{
+    "name": "task4",
+    "version": "1.0.0",
+    "description": "Task 4 - Complex Form Validation and Dynamic DOM Manipulation",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "ejs": "^3.1.7"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  
